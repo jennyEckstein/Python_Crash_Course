@@ -39,5 +39,5 @@ class Dog(Animal, object):
             print self.get_sound() * how_many
 
 
-spot = Dog("Spot", 53, 27, "Ruff", "Jenny")
-print spot.toString()
+#spot = Dog("Spot", 53, 27, "Ruff", "Jenny")
+#print spot.toString()
